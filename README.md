@@ -55,9 +55,9 @@ Coming Soon... (You can add a screenshot here if you want!)
 Pull requests are welcome! Feel free to open an issue if you find a bug or have a feature request.
 
 Made with ❤️ by Dhiraj
+<br>
 
-
-⛅ Weather Web App
+<h1>⛅ Weather Web App</h1>
 This project is a simple and interactive Weather Web App that fetches real-time weather data from the OpenWeather API and displays it to the user.
 
 🔗 GitHub Repository Link: Weather Web App
