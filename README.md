@@ -55,3 +55,74 @@ Coming Soon... (You can add a screenshot here if you want!)
 Pull requests are welcome! Feel free to open an issue if you find a bug or have a feature request.
 
 Made with ❤️ by Dhiraj
+
+
+⛅ Weather Web App
+This project is a simple and interactive Weather Web App that fetches real-time weather data from the OpenWeather API and displays it to the user.
+
+🔗 GitHub Repository Link: Weather Web App
+
+✨ Features
+Search weather by city name.
+
+Displays temperature, weather conditions, humidity, and wind speed.
+
+Fetches real-time data from OpenWeather API.
+
+Clean and responsive design.
+
+🛠️ Technologies Used
+HTML5 (for structure)
+
+CSS3 (for styling)
+
+JavaScript (for API fetch and dynamic updates)
+
+OpenWeather API (for live weather data)
+
+📁 Project Structure
+css
+Copy
+Edit
+/Wether Api
+│
+├── index.html       (Main HTML file)
+├── style.css        (CSS styling)
+├── script.js        (JavaScript file handling API and logic)
+└── README.md        (Project documentation)
+🚀 How to Run
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Dhiraj-1418/JavaScript-Programmes.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd JavaScript-Programmes/Wether\ Api
+Open index.html in your browser.
+
+Enter a city name and get the latest weather information instantly!
+
+🔑 API Information
+Weather data is fetched from the OpenWeather API.
+
+You need an API key from OpenWeather to fetch the data. (Make sure to insert your API key in the script.js if needed.)
+
+Example fetch URL:
+
+plaintext
+Copy
+Edit
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+📸 Preview
+Coming Soon... (You can add a live demo link or a screenshot here if you want!)
+
+📢 Contributing
+Pull requests are welcome!
+If you have suggestions for improvements or spot any bugs, feel free to open an issue.
+
+Made with ❤️ by Dhiraj
