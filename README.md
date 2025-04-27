@@ -125,7 +125,11 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 📸 Preview
 
 
-https://github.com/user-attachments/assets/ba9f484f-d2d2-419a-aac0-f00a5c529ef5
+
+
+
+https://github.com/user-attachments/assets/132366a1-9510-40cb-af9b-6235adcd937b
+
 
 
 
