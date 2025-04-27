@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+main .products{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+main .products .card{
+    margin-top: 20px;
+}
+.cartSec{
+    height: auto;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-top: 20px;
+    padding: 20px;
+}
+main .products .card img{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+}
