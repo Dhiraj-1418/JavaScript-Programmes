@@ -138,3 +138,73 @@ Pull requests are welcome!
 If you have suggestions for improvements or spot any bugs, feel free to open an issue.
 
 Made with ❤️ by Dhiraj
+
+
+
+
+<h1>🛒 Add to Cart Web App</h1>
+This project is a simple and interactive Add to Cart Web Application built using HTML, CSS, and JavaScript.
+It demonstrates how to add products to a shopping cart, update quantities, and manage cart items dynamically.
+
+🔗 GitHub Repository Link: Add to Cart Web App
+
+✨ Features
+Add products to the shopping cart.
+
+Increase or decrease product quantities.
+
+Remove items from the cart.
+
+Dynamic cart total updates.
+
+Clean and responsive user interface.
+
+🛠️ Technologies Used
+HTML5 (Markup)
+
+CSS3 (Styling)
+
+JavaScript (Logic and Interactivity)
+
+📁 Project Structure
+css
+Copy
+Edit
+/Add to cart
+│
+├── index.html        (Main HTML file)
+├── style.css         (CSS styling)
+├── script.js         (JavaScript for cart functionality)
+└── README.md         (Project documentation)
+🚀 How to Run
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Dhiraj-1418/JavaScript-Programmes.git
+Navigate to the project directory:
+
+bash
+Copy
+Edit
+cd JavaScript-Programmes/Add\ to\ cart
+Open the index.html file in your browser.
+
+Browse products, add them to the cart, and manage your shopping list easily!
+
+📸 Preview
+
+
+https://github.com/user-attachments/assets/8647ddcb-af9f-4652-a7cc-d68c6fcc5c12
+
+
+
+📢 Contributing
+Contributions are welcome!
+Feel free to fork the repository, make improvements, and open a pull request.
+
+Made with ❤️ by Dhiraj
+
+Would you also like me to create a simple "Live Demo" page template if you plan to host it on GitHub Pages? 🚀
+It would be super cool! 🌟 Let me know!
