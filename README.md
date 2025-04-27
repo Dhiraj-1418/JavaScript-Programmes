@@ -49,7 +49,11 @@ This project uses a public COVID-19 API to fetch the latest data.
 (Example: https://data.covid19india.org/data.json or whichever endpoint you're using.)
 
 📸 Preview
-Coming Soon... (You can add a screenshot here if you want!)
+
+
+https://github.com/user-attachments/assets/9754b0ff-86fe-415a-90b9-6509d4b162ab
+
+
 
 📢 Contributing
 Pull requests are welcome! Feel free to open an issue if you find a bug or have a feature request.
@@ -119,7 +123,11 @@ Copy
 Edit
 https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 📸 Preview
-Coming Soon... (You can add a live demo link or a screenshot here if you want!)
+
+
+https://github.com/user-attachments/assets/ba9f484f-d2d2-419a-aac0-f00a5c529ef5
+
+
 
 📢 Contributing
 Pull requests are welcome!
